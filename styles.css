@@ -1,0 +1,45 @@
+.content-center {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 100%;
+  margin-right: 10px;
+
+}
+
+.thirdLevel{
+  padding: 3em;
+}
+
+.product-level{
+width: 100%;
+}
+
+.column {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+margin: 1% 0 1% 1.6%;
+}
+
+.span_1_of_2 {
+width: 47.6%;
+}
+
+.img-border{
+border: #979794 solid 1px;
+width: 30%;
+margin: 5px;
+}
+
+.img-xyz {
+
+height: auto;
+max-width: 100%;
+width: 100%;
+}
+
+.text-inner-img{
+padding: 2em;
+width: 100%;
+}
